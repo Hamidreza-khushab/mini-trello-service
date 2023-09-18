@@ -1,4 +1,4 @@
-FROM hemanhp/djbase:lastes
+FROM hemanhp/djbase:4.2.5
 
 COPY ./requirements /requirements
 COPY ./scripts /scripts

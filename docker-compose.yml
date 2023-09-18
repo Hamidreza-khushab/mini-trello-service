@@ -22,6 +22,6 @@ services:
     environment:
       - POSTGRES_DB=trello
       - POSTGRES_USER=trello
-      - POSTGRES_PASSWORD=123@456
+      - POSTGRES_PASSWORD=2773
 volumes:
   postgres-data:
